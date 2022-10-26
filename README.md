@@ -1,0 +1,138 @@
+<a name="readme-top"></a>
+
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/nodejs-logo.png" alt="Logo" >
+  </a>
+
+  <h3 align="center">Node.js Sample Project</h3>
+
+  <p align="center">
+    Sample project to test deployments with
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📋 Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## 📖 About The Project
+
+This Sample Project can be used to **practice deployments with** for all Microverse students.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+The project specifications are the following:
+
+|            | Version |
+| ---------- | ------- |
+| Node.js    | 16.14.2 |
+| Express.js | 4.18.2  |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+1. Download Node.js
+
+   - Via the [official website](https://nodejs.org/en/download/)
+   - Or via alternative [package managers](https://nodejs.org/en/download/package-manager/)
+
+2. Download [npm](https://docs.npmjs.com/about-npm) or [yarn](https://yarnpkg.com/getting-started)
+
+   ```sh
+   npm install npm@latest --global  // For NPM
+   ```
+
+   ```sh
+   npm install --global yarn  // For Yarn
+   ```
+
+### Installation
+
+Following the steps to setup your project:
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/noergitkat/nodejs-sample.project.git
+   ```
+
+2. Navigate to the project
+
+   ```sh
+   cd nodejs-sample-project
+   ```
+
+3. Install packages
+
+   ```sh
+   npm install // For NPM
+   ```
+
+   ```sh
+   yarn // For Yarn
+   ```
+
+4. Run the application
+
+   ```sh
+   node index.js
+   ```
+
+5. Open your browser and go to http://localhost:3000
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- License -->
+
+## 🪪 License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## 📞 Contact
+
+Noer Paanakker - Technical Curriculum Designer - <a href="mailto:noer.paanakker@microverse.org">noer.paanakker@microverse.org</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
