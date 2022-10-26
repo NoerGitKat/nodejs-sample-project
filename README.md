@@ -52,10 +52,10 @@ This Sample Project can be used to **practice deployments with** for all Microve
 
 The project specifications are the following:
 
-|            | Version |
-| ---------- | ------- |
-| Node.js    | 16.14.2 |
-| Express.js | 4.18.2  |
+|                                      | Version |
+| ------------------------------------ | ------- |
+| [Node.js](https://nodejs.org/en/)    | 16.14.2 |
+| [Express.js](https://expressjs.com/) | 4.18.2  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,12 +63,11 @@ The project specifications are the following:
 
 ## 💻 Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Before you can setup the project, you need to make sure you've got the required software. Follow the steps:
 
 1. Download Node.js
 
@@ -136,3 +135,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Noer Paanakker - Technical Curriculum Designer - <a href="mailto:noer.paanakker@microverse.org">noer.paanakker@microverse.org</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+------
+
+_If you spot any bugs or issues, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
