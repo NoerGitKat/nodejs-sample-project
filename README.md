@@ -2,19 +2,10 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/nodejs-logo.png" alt="Logo" >
-  </a>
-
+  <img src="images/nodejs-logo.png" alt="Logo" >
   <h3 align="center">Node.js Sample Project</h3>
-
   <p align="center">
     Sample project to test deployments with
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
   </p>
 </div>
 
@@ -136,6 +127,6 @@ Noer Paanakker - Technical Curriculum Designer - <a href="mailto:noer.paanakker@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-------
+---
 
 _If you spot any bugs or issues, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
