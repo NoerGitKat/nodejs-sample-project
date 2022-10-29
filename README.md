@@ -3,6 +3,8 @@
 <br />
 <div align="center">
   <img src="images/nodejs-logo.png" alt="Logo" >
+  <br />
+  <br />
   <h3 align="center">Node.js Sample Project</h3>
   <p align="center">
     Sample project to test deployments with
@@ -82,7 +84,7 @@ Following the steps to setup your project:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/noergitkat/nodejs-sample.project.git
+   git clone https://github.com/noergitkat/nodejs-sample-project.git
    ```
 
 2. Navigate to the project
